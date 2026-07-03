@@ -1473,7 +1473,7 @@
             <date variable="original-date">
               <date-part name="year"/>
             </date>
-            <text term="and" form="text"/>
+            <text term="and"/>
           </group>
           <date variable="issued">
             <date-part name="year"/>
