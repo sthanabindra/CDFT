@@ -157,7 +157,7 @@
           <else>
             <names variable="author" delimiter=", ">
               <name form="short" and="symbol" delimiter=", " initialize-with=". "/>
-                <et-al font-style="italic"/>
+              <et-al font-style="italic"/>
               <substitute>
                 <text macro="title-intext"/>
               </substitute>
@@ -168,7 +168,7 @@
       <else>
         <names variable="composer" delimiter=", ">
           <name form="short" and="symbol" delimiter=", " initialize-with=". "/>
-                <et-al font-style="italic"/>
+          <et-al font-style="italic"/>
           <substitute>
             <names variable="author"/>
             <names variable="illustrator"/>
